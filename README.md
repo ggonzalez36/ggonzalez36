@@ -20,8 +20,8 @@ Currently, I specialize in architecting cloud-native platforms, leading high-per
 
 | Area | Technologies |
 | :--- | :--- |
-| **Languages** | Python, Java (Spring Boot), Golang, PL/SQL |
-| **AI & ML** | TensorFlow, PyTorch, scikit-learn, LangChain, RAG, AI Agents, MLOps |
+| **Languages** | Python, Java (Spring Boot), Golang, JavaScript, Angular , NOdeJS |
+| **AI & ML** | TensorFlow, PyTorch, scikit-learn, LangChain, RAG, AI Agents, MLOps, LLMS, Hugging Faces |
 | **Cloud & DevOps** | AWS (EKS, Lambda), Kubernetes, Terraform, Docker, Jenkins, GitHub Actions |
 | **Architecture** | Microservices, Event-Driven (Kafka), REST APIs, Clean Architecture, Saga/Circuit Breaker |
 | **Data & Databases**| PostgreSQL, DynamoDB, MongoDB, Redis, Oracle |
@@ -55,5 +55,5 @@ Currently, I specialize in architecting cloud-native platforms, leading high-per
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&count_private=true" alt="Gustavo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ggonzalez36&show_icons=true&theme=dark&count_private=true" alt="Gustavo's GitHub Stats" />
 </p>
