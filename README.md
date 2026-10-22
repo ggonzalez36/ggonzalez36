@@ -48,12 +48,6 @@ Currently, I specialize in architecting cloud-native platforms, leading high-per
 
 ### 📫 Connect with me
 
-- 💼 [LinkedIn](https://www.linkedin.com/ggonzalez36)
-- 📧 [Email](gustavogonzalezie@gmial.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ggonzalez36)
+- 📧 [Email](mailto:gustavogonzalezie@gmail.com)
 - 📍 Bogota, Colombia
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ggonzalez36&show_icons=true&theme=dark&count_private=true" alt="Gustavo's GitHub Stats" />
-</p>
