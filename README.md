@@ -51,7 +51,6 @@ Currently, I specialize in architecting cloud-native platforms, leading high-per
 
 - **MSc in Computational Intelligence and Data Science** – Coventry University, UK (2018).
 - **BSc in Electronic Engineering** – Escuela Colombiana de Ingeniería, Colombia.
-- **Current Goal:** 📚 Preparing to begin a **PhD in Artificial Intelligence** to advance research in autonomous systems and advanced modeling.
 
 ---
 
