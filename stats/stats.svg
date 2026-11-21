@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="330" viewBox="0 0 495 330" role="img" aria-label="GitHub stats">
+
+<style>
+  .bg { fill: #ffffff; stroke: #d0d7de; }
+  .t { fill: #1f2328; font: 600 16px 'Segoe UI', Ubuntu, sans-serif; }
+  .l { fill: #59636e; font: 400 12px 'Segoe UI', Ubuntu, sans-serif; }
+  .v { fill: #1f2328; font: 600 22px 'Segoe UI', Ubuntu, sans-serif; }
+  .bar { fill: #2da44e; }
+  .grid { stroke: #d0d7de; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; stroke: #30363d; }
+    .t, .v { fill: #e6edf3; }
+    .l { fill: #9198a1; }
+    .bar { fill: #3fb950; }
+    .grid { stroke: #30363d; }
+  }
+</style>
+
+<rect class="bg" x="0.5" y="0.5" width="494" height="329" rx="6"/>
+<text class="t" x="24" y="36">GitHub activity (incl. private repos)</text>
+<text class="v" x="24" y="76">116</text>
+<text class="l" x="24" y="94">Contributions (1y)</text>
+<text class="v" x="142" y="76">97</text>
+<text class="l" x="142" y="94">Commits (1y)</text>
+<text class="v" x="260" y="76">21</text>
+<text class="l" x="260" y="94">PRs merged (30d)</text>
+<text class="v" x="378" y="76">26</text>
+<text class="l" x="378" y="94">PRs merged (1y)</text>
+<text class="v" x="24" y="138">12</text>
+<text class="l" x="24" y="156">Active days (1y)</text>
+<text class="v" x="142" y="138">44</text>
+<text class="l" x="142" y="156">Repositories</text>
+<text class="v" x="260" y="138">0 d</text>
+<text class="l" x="260" y="156">Current streak</text>
+<text class="v" x="378" y="138">3 d</text>
+<text class="l" x="378" y="156">Longest streak</text>
+<text class="l" x="24" y="196">Contributions per week, last 26 weeks</text>
+<line class="grid" x1="24" y1="300.5" x2="471" y2="300.5"/>
+<rect class="bar" x="344.4" y="261" width="16" height="39" rx="2"><title>21</title></rect>
+<rect class="bar" x="397.8" y="210" width="16" height="90" rx="2"><title>49</title></rect>
+<rect class="bar" x="415.6" y="283" width="16" height="17" rx="2"><title>9</title></rect>
+</svg>

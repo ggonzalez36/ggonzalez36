@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="184" viewBox="0 0 350 184" role="img" aria-label="Top languages">
+
+<style>
+  .bg { fill: #ffffff; stroke: #d0d7de; }
+  .t { fill: #1f2328; font: 600 16px 'Segoe UI', Ubuntu, sans-serif; }
+  .l { fill: #59636e; font: 400 12px 'Segoe UI', Ubuntu, sans-serif; }
+  .v { fill: #1f2328; font: 600 22px 'Segoe UI', Ubuntu, sans-serif; }
+  .bar { fill: #2da44e; }
+  .grid { stroke: #d0d7de; }
+  @media (prefers-color-scheme: dark) {
+    .bg { fill: #0d1117; stroke: #30363d; }
+    .t, .v { fill: #e6edf3; }
+    .l { fill: #9198a1; }
+    .bar { fill: #3fb950; }
+    .grid { stroke: #30363d; }
+  }
+</style>
+
+<rect class="bg" x="0.5" y="0.5" width="349" height="183" rx="6"/>
+<text class="t" x="24" y="36">Top languages</text>
+<clipPath id="c"><rect x="24" y="50" width="302" height="10" rx="5"/></clipPath>
+<g clip-path="url(#c)">
+<rect x="24.00" y="50" width="212.31" height="10" fill="#3572A5"/>
+<rect x="236.31" y="50" width="43.69" height="10" fill="#b07219"/>
+<rect x="280.00" y="50" width="17.61" height="10" fill="#00ADD8"/>
+<rect x="297.61" y="50" width="8.32" height="10" fill="#e34c26"/>
+<rect x="305.93" y="50" width="7.54" height="10" fill="#844FBA"/>
+<rect x="313.48" y="50" width="5.92" height="10" fill="#ff5a03"/>
+<rect x="319.40" y="50" width="2.38" height="10" fill="#00B4AB"/>
+<rect x="321.78" y="50" width="2.24" height="10" fill="#3178c6"/>
+</g>
+<circle cx="29" cy="82" r="5" fill="#3572A5"/>
+<text class="l" x="40" y="86">Python 70.3%</text>
+<circle cx="184" cy="82" r="5" fill="#b07219"/>
+<text class="l" x="195" y="86">Java 14.5%</text>
+<circle cx="29" cy="108" r="5" fill="#00ADD8"/>
+<text class="l" x="40" y="112">Go 5.8%</text>
+<circle cx="184" cy="108" r="5" fill="#e34c26"/>
+<text class="l" x="195" y="112">HTML 2.8%</text>
+<circle cx="29" cy="134" r="5" fill="#844FBA"/>
+<text class="l" x="40" y="138">HCL 2.5%</text>
+<circle cx="184" cy="134" r="5" fill="#ff5a03"/>
+<text class="l" x="195" y="138">Astro 2.0%</text>
+<circle cx="29" cy="160" r="5" fill="#00B4AB"/>
+<text class="l" x="40" y="164">Dart 0.8%</text>
+<circle cx="184" cy="160" r="5" fill="#3178c6"/>
+<text class="l" x="195" y="164">TypeScript 0.7%</text>
+</svg>

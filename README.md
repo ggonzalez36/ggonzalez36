@@ -54,6 +54,17 @@ Currently, I specialize in architecting cloud-native platforms, leading high-per
 
 ---
 
+### 📊 GitHub Activity
+
+Most of my day-to-day work lives in private repositories, so these cards count private contributions too (totals only, no repository names). Updated daily by a GitHub Action.
+
+<p align="center">
+  <img src="stats/stats.svg" alt="GitHub activity stats" />
+  <img src="stats/languages.svg" alt="Top languages" />
+</p>
+
+---
+
 ### 📫 Connect with me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ggonzalez36)
