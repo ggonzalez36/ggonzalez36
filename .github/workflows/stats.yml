@@ -1,0 +1,37 @@
+name: Profile stats
+
+on:
+  schedule:
+    - cron: "0 11 * * *" # 06:00 Bogota
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-stats
+  cancel-in-progress: true
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+
+      - name: Generate SVG cards
+        env:
+          # Read-only personal token so private contributions are counted.
+          GH_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: python3 scripts/stats.py "${{ github.repository_owner }}" stats
+
+      - name: Commit if changed
+        run: |
+          git add stats
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Update profile stats"
+          git push
